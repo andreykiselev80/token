@@ -1,0 +1,14 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "description": "Launched in 2014, Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner.",
+  "image": "https://andreykiselev80.github.io/token/tether.png",
+  "decimals": 6,
+  "attributes": [],
+  "extensions": {
+    "website": "https://tether.to/ru/",
+    "twitter": "https://x.com/Tether_to/",
+    "discord": "",
+    "explorer": "https://solscan.io/token/6wTa6zvMDELoGZFwix9dt78fYUdYZUgbHd5a2Dh5hdx2"
+  }
+}
